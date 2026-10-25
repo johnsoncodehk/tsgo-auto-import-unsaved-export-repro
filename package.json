@@ -1,0 +1,11 @@
+{
+  "name": "tsgo-auto-import-unsaved-export-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "dependencies": {
+    "typescript": "7.1.0-beta"
+  }
+}
